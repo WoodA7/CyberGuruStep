@@ -1,0 +1,42 @@
+c:\users\step\documents\visual studio 2015\Projects\SwipeGridWPF\SwipeGridWPF\bin\Debug\SwipeGridWPF.exe.config
+c:\users\step\documents\visual studio 2015\Projects\SwipeGridWPF\SwipeGridWPF\bin\Debug\SwipeGridWPF.exe
+c:\users\step\documents\visual studio 2015\Projects\SwipeGridWPF\SwipeGridWPF\bin\Debug\SwipeGridWPF.pdb
+c:\users\step\documents\visual studio 2015\Projects\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.csprojResolveAssemblyReference.cache
+c:\users\step\documents\visual studio 2015\Projects\SwipeGridWPF\SwipeGridWPF\obj\Debug\MainWindow.g.cs
+c:\users\step\documents\visual studio 2015\Projects\SwipeGridWPF\SwipeGridWPF\obj\Debug\App.g.cs
+c:\users\step\documents\visual studio 2015\Projects\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF_MarkupCompile.cache
+c:\users\step\documents\visual studio 2015\Projects\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF_MarkupCompile.lref
+c:\users\step\documents\visual studio 2015\Projects\SwipeGridWPF\SwipeGridWPF\obj\Debug\MainWindow.baml
+c:\users\step\documents\visual studio 2015\Projects\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.g.resources
+c:\users\step\documents\visual studio 2015\Projects\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.Properties.Resources.resources
+c:\users\step\documents\visual studio 2015\Projects\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.csproj.GenerateResource.Cache
+c:\users\step\documents\visual studio 2015\Projects\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.exe
+c:\users\step\documents\visual studio 2015\Projects\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.pdb
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\SwipeGridWPF\SwipeGridWPF\bin\Debug\SwipeGridWPF.exe.config
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.exe
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.pdb
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\SwipeGridWPF\SwipeGridWPF\bin\Debug\SwipeGridWPF.exe
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\SwipeGridWPF\SwipeGridWPF\bin\Debug\SwipeGridWPF.pdb
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.csprojResolveAssemblyReference.cache
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\MainWindow.g.cs
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\App.g.cs
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF_MarkupCompile.cache
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF_MarkupCompile.lref
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\MainWindow.baml
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.g.resources
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.Properties.Resources.resources
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.csproj.GenerateResource.Cache
+G:\Grosu1\SwipeGridWPF\SwipeGridWPF\bin\Debug\SwipeGridWPF.exe.config
+G:\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.exe
+G:\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.pdb
+G:\Grosu1\SwipeGridWPF\SwipeGridWPF\bin\Debug\SwipeGridWPF.exe
+G:\Grosu1\SwipeGridWPF\SwipeGridWPF\bin\Debug\SwipeGridWPF.pdb
+G:\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.csprojResolveAssemblyReference.cache
+G:\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\MainWindow.g.cs
+G:\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\App.g.cs
+G:\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF_MarkupCompile.cache
+G:\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF_MarkupCompile.lref
+G:\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\MainWindow.baml
+G:\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.g.resources
+G:\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.Properties.Resources.resources
+G:\Grosu1\SwipeGridWPF\SwipeGridWPF\obj\Debug\SwipeGridWPF.csproj.GenerateResource.Cache

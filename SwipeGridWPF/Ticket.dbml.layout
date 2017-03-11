@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Ticket">
+  <DataContextMoniker Name="/TicketDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6c29af6a-7696-4e7c-b3b0-9dee68a71bc1" absoluteBounds="0.5, 0.5, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/TicketDataContext/Ticket" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9b566c18-1fe4-4544-b99d-c1cd1c0a136d" absoluteBounds="0.51499999999999968, 0.96, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9492ec95-c807-4514-8c9e-f31a1b05961c" absoluteBounds="3.75, 1.125, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/TicketDataContext/City" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ff8eee3e-7643-4dae-84fa-e2d603728fa0" absoluteBounds="3.7650000000000006, 1.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.75 : 1.72199625651042); (2.5 : 1.72199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketDataContext/City/City_Ticket" />
+      <nodes>
+        <classShapeMoniker Id="9492ec95-c807-4514-8c9e-f31a1b05961c" />
+        <classShapeMoniker Id="6c29af6a-7696-4e7c-b3b0-9dee68a71bc1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.75 : 1.36099812825521); (2.5 : 1.36099812825521)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TicketDataContext/City/City_Ticket1" />
+      <nodes>
+        <classShapeMoniker Id="9492ec95-c807-4514-8c9e-f31a1b05961c" />
+        <classShapeMoniker Id="6c29af6a-7696-4e7c-b3b0-9dee68a71bc1" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
